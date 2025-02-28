@@ -1,6 +1,6 @@
 # 🎉 Happy Birthday Webpage 🎂
 
-This is a simple and fun webpage to celebrate someone's birthday. It includes animations, music, and a personalized greeting.
+This is a simple and fun webpage to celebrate Huynh Ngan's birthday. It includes animations, music, and a personalized greeting.
 
 ## 📂 Project Structure
 
